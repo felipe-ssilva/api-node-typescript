@@ -18,8 +18,12 @@
     "api",
     "tdd"
   ],
+  "bugs": {
+    "url": "https://github.com/felipe-ssilva/api-node-typescript/issues"
+  },
   "author": "Felipe da Silva",
   "license": "MIT",
+  "homepage": "https://github.com/felipe-ssilva/api-node-typescript#readme",
   "devDependencies": {
     "@types/jest": "^26.0.14",
     "@types/module-alias": "^2.0.0",
